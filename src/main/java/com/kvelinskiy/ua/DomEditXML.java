@@ -19,27 +19,29 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.List;
 import java.util.Scanner;
 
 /**
  * @author Igor Kvelinskyi (igorkvjava@gmail.com)
  */
 public class DomEditXML {
-    public void changeDataFileXMLListOfIncapacitated(String fileInputXMLHead, String fileInputXMLBody,
-                                                     String fileInputXMLFooter, String fileOutputXML){
+    public void changeDataFileXMLListOfIncapacitated(List<List<String>> dataTable){
         try {
-            File fXmlFileInputXMLHead = new File(fileInputXMLHead);
-            File fXmlFileInputXMLBody = new File(fileInputXMLBody);
-            File fXmlFileInputXMLFooter = new File(fileInputXMLFooter);
+            File fXmlFileInputXMLHead = new File("listOfIncapacitatedHead.xml");
+            File fXmlFileInputXMLBody = new File("listOfIncapacitatedBody.xml");
+            File fXmlFileInputXMLFooter = new File("listOfIncapacitatedFooter.xml");
             String dataHead = contentFileRecording(fXmlFileInputXMLHead);
             String dataBody = contentFileRecording(fXmlFileInputXMLBody);
+            DataProcessing dataProcessing = new DataProcessing();
+            dataBody= dataProcessing.changeData(dataTable, dataBody);
             String dataFooter = contentFileRecording(fXmlFileInputXMLFooter);
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
             File input = writingContentFile(dataHead+dataBody+dataFooter, "fileInputXML.xml");
             Document docInputXML = dBuilder.parse(input);
             docInputXML.getDocumentElement().normalize();
-            changeData(docInputXML, fileOutputXML);
+            writeDocument(docInputXML, "outputIncapacitated.xml");
         } catch (ParserConfigurationException e) {
             e.printStackTrace();
         } catch (SAXException e) {

@@ -28,7 +28,7 @@
                     <w:szCs w:val="18"/>
                     <w:lang w:val="uk-UA"/>
                 </w:rPr>
-                <w:t>1</w:t>
+                <w:t>111</w:t>
             </w:r>
         </w:p>
     </w:tc>
@@ -53,7 +53,7 @@
                     <w:noProof/>
                     <w:lang w:val="uk-UA"/>
                 </w:rPr>
-                <w:t>3</w:t>
+                <w:t>222</w:t>
             </w:r>
         </w:p>
     </w:tc>
@@ -78,7 +78,7 @@
                     <w:noProof/>
                     <w:lang w:val="uk-UA"/>
                 </w:rPr>
-                <w:t>Писарук Марина Генадіївна</w:t>
+                <w:t>333</w:t>
             </w:r>
         </w:p>
     </w:tc>
@@ -104,7 +104,7 @@
                     <w:noProof/>
                     <w:lang w:val="uk-UA"/>
                 </w:rPr>
-                <w:t>07.02.1984р.</w:t>
+                <w:t>444</w:t>
             </w:r>
         </w:p>
     </w:tc>
@@ -129,7 +129,7 @@
                     <w:noProof/>
                     <w:lang w:val="uk-UA"/>
                 </w:rPr>
-                <w:t>м.Київ,Святошинський р-н,вул.С.Сосніних,б.12,кв.22</w:t>
+                <w:t>555</w:t>
             </w:r>
         </w:p>
     </w:tc>
@@ -153,7 +153,7 @@
                     <w:noProof/>
                     <w:lang w:val="uk-UA"/>
                 </w:rPr>
-                <w:t>18.11.2019р.визнана недіезд.</w:t>
+                <w:t>666</w:t>
             </w:r>
         </w:p>
     </w:tc>
@@ -178,7 +178,7 @@
                     <w:noProof/>
                     <w:lang w:val="uk-UA"/>
                 </w:rPr>
-                <w:t>Куковець Тетяна Миколаївна</w:t>
+                <w:t>777</w:t>
             </w:r>
         </w:p>
     </w:tc>
@@ -202,7 +202,7 @@
                     <w:noProof/>
                     <w:lang w:val="uk-UA"/>
                 </w:rPr>
-                <w:t>м.Київ,Святошинський р-н,вул.С.Сосніних буд.12,кв.22</w:t>
+                <w:t>888</w:t>
             </w:r>
         </w:p>
     </w:tc>
