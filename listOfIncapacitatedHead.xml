@@ -1,0 +1,392 @@
+<w:document xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" mc:Ignorable="w14 w15 w16se w16cid wp14">
+    <w:body>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblW w:type="dxa" w:w="11732"/>
+                <w:tblBorders>
+                    <w:top w:color="auto" w:space="0" w:sz="4" w:val="single"/>
+                    <w:left w:color="auto" w:space="0" w:sz="4" w:val="single"/>
+                    <w:bottom w:color="auto" w:space="0" w:sz="4" w:val="single"/>
+                    <w:right w:color="auto" w:space="0" w:sz="4" w:val="single"/>
+                    <w:insideH w:color="auto" w:space="0" w:sz="4" w:val="single"/>
+                    <w:insideV w:color="auto" w:space="0" w:sz="4" w:val="single"/>
+                </w:tblBorders>
+                <w:tblLook w:firstColumn="1" w:firstRow="1" w:lastColumn="0" w:lastRow="0" w:noHBand="0" w:noVBand="1" w:val="04A0"/>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="531"/>
+                <w:gridCol w:w="485"/>
+                <w:gridCol w:w="1077"/>
+                <w:gridCol w:w="67"/>
+                <w:gridCol w:w="1272"/>
+                <w:gridCol w:w="67"/>
+                <w:gridCol w:w="2681"/>
+                <w:gridCol w:w="67"/>
+                <w:gridCol w:w="2111"/>
+                <w:gridCol w:w="1079"/>
+                <w:gridCol w:w="62"/>
+                <w:gridCol w:w="2354"/>
+            </w:tblGrid>
+            <w:tr w:rsidR="0051346E" w:rsidRPr="00361FB2" w:rsidTr="00254E60">
+                <w:trPr>
+                    <w:trHeight w:val="300"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="11732"/>
+                        <w:gridSpan w:val="12"/>
+                        <w:noWrap/>
+                        <w:hideMark/>
+                    </w:tcPr>
+                    <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00361FB2">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                            <w:t>СПИСОК НЕДІЄЗДАТНИХ ПАЦІЄНТІВ, ЯКІ ЗНАХОДЯТЬСЯ НА ЛІКУВАННІ у ТМО "ПСИХІАТРІЯ" в місті КИЄВІ - 2021 рік</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="0051346E" w:rsidRPr="00361FB2" w:rsidTr="00254E60">
+                <w:trPr>
+                    <w:trHeight w:val="495"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="531"/>
+                        <w:hideMark/>
+                    </w:tcPr>
+                    <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00F54C4E">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:lang w:val="ru-RU"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00361FB2">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                            <w:t> </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:lang w:val="ru-RU"/>
+                            </w:rPr>
+                            <w:t>№ п</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:t>/</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:lang w:val="ru-RU"/>
+                            </w:rPr>
+                            <w:t>п</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="485"/>
+                        <w:hideMark/>
+                    </w:tcPr>
+                    <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+                        <w:pPr>
+                            <w:ind w:right="-173"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00361FB2">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                            <w:t>№ відд.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1077"/>
+                        <w:hideMark/>
+                    </w:tcPr>
+                    <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00361FB2">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                            <w:t>П.І.Б.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1339"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:hideMark/>
+                    </w:tcPr>
+                    <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+                        <w:pPr>
+                            <w:ind w:right="-197"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00361FB2">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                            <w:t>Дата народження</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="2748"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:hideMark/>
+                    </w:tcPr>
+                    <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00361FB2">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                            <w:t>Домашня адреса</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="2178"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:hideMark/>
+                    </w:tcPr>
+                    <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00361FB2">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                            <w:t>Дата рішення суду</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="1079"/>
+                        <w:hideMark/>
+                    </w:tcPr>
+                    <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+                        <w:pPr>
+                            <w:ind w:left="-93" w:right="-27"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00361FB2">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                            <w:t>П.І.Б. опікуна</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="2295"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:hideMark/>
+                    </w:tcPr>
+                    <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+                        <w:pPr>
+                            <w:ind w:right="-141"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00361FB2">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                            <w:t>Адреса, телефон опікуна</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="0051346E" w:rsidRPr="00361FB2" w:rsidTr="00254E60">
+                <w:trPr>
+                    <w:trHeight w:val="300"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="11732"/>
+                        <w:gridSpan w:val="12"/>
+                        <w:noWrap/>
+                        <w:hideMark/>
+                    </w:tcPr>
+                    <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00361FB2">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                                <w:b/>
+                                <w:bCs/>
+                                <w:noProof/>
+                                <w:lang w:val="uk-UA"/>
+                            </w:rPr>
+                            <w:t>01.04.2021 р.</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>

@@ -1,0 +1,210 @@
+<w:tr w:rsidR="0051346E" w:rsidRPr="00F54C4E" w:rsidTr="00254E60">
+    <w:trPr>
+        <w:trHeight w:val="930"/>
+    </w:trPr>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:type="dxa" w:w="531"/>
+            <w:noWrap/>
+            <w:hideMark/>
+        </w:tcPr>
+        <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+            <w:pPr>
+                <w:ind w:hanging="7" w:left="-1" w:right="-54"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00361FB2">
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+                <w:t>1</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:type="dxa" w:w="485"/>
+            <w:noWrap/>
+            <w:hideMark/>
+        </w:tcPr>
+        <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+            <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00361FB2">
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+                <w:t>3</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:type="dxa" w:w="1144"/>
+            <w:gridSpan w:val="2"/>
+            <w:hideMark/>
+        </w:tcPr>
+        <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+            <w:pPr>
+                <w:ind w:right="-130"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00361FB2">
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+                <w:t>Писарук Марина Генадіївна</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:type="dxa" w:w="1339"/>
+            <w:gridSpan w:val="2"/>
+            <w:noWrap/>
+            <w:hideMark/>
+        </w:tcPr>
+        <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+            <w:pPr>
+                <w:ind w:firstLine="13" w:left="-13" w:right="-41"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00361FB2">
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+                <w:t>07.02.1984р.</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:type="dxa" w:w="2748"/>
+            <w:gridSpan w:val="2"/>
+            <w:hideMark/>
+        </w:tcPr>
+        <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+            <w:pPr>
+                <w:ind w:firstLine="31" w:left="-31" w:right="-52"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00361FB2">
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+                <w:t>м.Київ,Святошинський р-н,вул.С.Сосніних,б.12,кв.22</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:type="dxa" w:w="2111"/>
+            <w:hideMark/>
+        </w:tcPr>
+        <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+            <w:pPr>
+                <w:ind w:right="-127"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00361FB2">
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+                <w:t>18.11.2019р.визнана недіезд.</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:type="dxa" w:w="1141"/>
+            <w:gridSpan w:val="2"/>
+            <w:hideMark/>
+        </w:tcPr>
+        <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+            <w:pPr>
+                <w:ind w:left="-106" w:right="-85"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00361FB2">
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+                <w:t>Куковець Тетяна Миколаївна</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:type="dxa" w:w="2233"/>
+            <w:hideMark/>
+        </w:tcPr>
+        <w:p w:rsidP="00254E60" w:rsidR="0051346E" w:rsidRDefault="0051346E" w:rsidRPr="00361FB2">
+            <w:pPr>
+                <w:ind w:left="-44"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00361FB2">
+                <w:rPr>
+                    <w:rFonts w:ascii="Times New Roman" w:cs="Times New Roman" w:hAnsi="Times New Roman"/>
+                    <w:noProof/>
+                    <w:lang w:val="uk-UA"/>
+                </w:rPr>
+                <w:t>м.Київ,Святошинський р-н,вул.С.Сосніних буд.12,кв.22</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+</w:tr>
+
